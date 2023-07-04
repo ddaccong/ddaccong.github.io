@@ -7,7 +7,7 @@ url: https://ddaccong.github.io
 avatar: /profile.jpeg
 paginate: 5
 permalink: pretty
-cover_image: /IMG_1083.jpg
+cover_image: /assets/IMG_1083.jpg
 
 # Gems
 plugins:
