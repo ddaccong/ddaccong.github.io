@@ -1,0 +1,9 @@
+- title: Email
+  url: mailto://ddaccong99@yonsei.ac.kr
+  icon: fas fa-envelope
+- title: Twitter
+  url: https://instagram.com/dahyingim
+  icon: fab fa-instagram
+- title: GitHub
+  url: https://github.com/ddaccong
+  icon: fab fa-github
